@@ -6,6 +6,10 @@
 
 Welcome to **RockyBot**! RockyBot is a sophisticated chatbot designed to interact with your SQL database, providing accurate answers to your business queries without the need for coding knowledge. Utilizing LangChain and Google Generative AI, this project leverages the power of machine learning to enhance your business efficiency.
 
+ 
+  ![gogle palm image](https://github.com/Prakashpsk/-RockyBot-Advanced-SQL-Query-Chatbot/blob/main/Google-PaLM-Algorithm-image.png)
+
+                                    
 ## 🧠 Skills/Concepts Developed
 
 - **Python**: Developed core logic for data processing and API interaction.
